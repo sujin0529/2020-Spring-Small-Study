@@ -12,4 +12,5 @@
 ****** 여태 작성했던 글 모두 올려주시기 바랍니다! ******
 
 +) 추가사항, 이미지 넣는 방법은 아래의 링크의 글을 참고해주세요.
+
 https://hanee24.github.io/2017/12/21/how-to-upload-image-with-github-readme/
